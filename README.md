@@ -29,4 +29,4 @@ Project Details:
 * Created an email bot that automatically sends users their results of their input height compared to the average of all users
 * Stored data into PostgreSQL heroku database to perform analysis on all user input data
 * Created visualizations in tableau to showcase data trend
-* *This code contains sensitive information and will be made available upon request
+* *This code contains sensitive information and will be made available upon request*
