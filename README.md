@@ -9,3 +9,8 @@ Please enjoy and I welcome any feedback!
 
 
 [Project 1: Web Scrape and Analyze Charlotte Real Estate Data](https://github.com/SJDEMO/SimonDPortfolio/blob/main/RealEstateScrapper-checkpoint.ipynb)
+Project Details:
+-Scraped Data from local Charlotte real estate website Century 21
+-Cleaned Data in MySQLWorkbench by eliminating null rows, removing unnecessary text from columns, removing commas and decimals from prices, ect.
+-Filtered data to select the key components needed for visualization
+-Exported into csv file for visualization in Tableau
