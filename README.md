@@ -1,4 +1,4 @@
-# SimonDPortfolio
+# Simon Democko Portfolio
  Data Analyst Portfolio
 
 I began my journey into the field of data as a Mathematics major at University of North Carolina at Charlotte.
