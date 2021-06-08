@@ -15,9 +15,12 @@ Project Details:
 * Filtered data to select the key components needed for visualization
 * Exported into csv file for visualization in Tableau 
 
-[Project 2: FAANG Stock Analysis Risk v Reward 2020]
 
-
+[Project 2: FAANG Stock Analysis Risk v Reward 2020](https://github.com/SJDEMO/SimonDPortfolio/blob/main/FAANG%20Stock%20Analysis%202020.ipynb)
+Project Details:
+* Retrieved data from Yahoo Finance on FAANG stocks, specifically open price, close price, and volume
+* Visuaized data using multiple graphs based on stock performance in year 2020
+* Made conclusions based on results to determine ideal the ideal FAANG stock to have owned in 2020
 
 
 [Project 3: Simple Survey on Height Data](https://surveymonkeydb.herokuapp.com/)
