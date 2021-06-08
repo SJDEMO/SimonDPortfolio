@@ -13,4 +13,4 @@ Project Details:
 -Scraped Data from local Charlotte real estate website Century 21
 -Cleaned Data in MySQLWorkbench by eliminating null rows, removing unnecessary text from columns, removing commas and decimals from prices, ect.
 -Filtered data to select the key components needed for visualization
--Exported into csv file for visualization in Tableau
+-Exported into csv file for visualization in Tableau 
