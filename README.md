@@ -15,8 +15,12 @@ Project Details:
 * Filtered data to select the key components needed for visualization
 * Exported into csv file for visualization in Tableau 
 
+[Project 2: FAANG Stock Analysis Risk v Reward 2020]
 
-[Project 2: Simple Survey on Height Data](https://surveymonkeydb.herokuapp.com/)
+
+
+
+[Project 3: Simple Survey on Height Data](https://surveymonkeydb.herokuapp.com/)
 Project Details:
 * Front End: Created a website with html and css formatting for a user to input their email and height and recieve results compared to the average height of all users data
 * Back end:
