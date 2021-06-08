@@ -14,3 +14,12 @@ Project Details:
 * Cleaned Data in MySQLWorkbench by eliminating null rows, removing unnecessary text from columns, removing commas and decimals from prices, ect.
 * Filtered data to select the key components needed for visualization
 * Exported into csv file for visualization in Tableau 
+
+
+[Project 2: Simple Survey on Height Data](https://surveymonkeydb.herokuapp.com/)
+Project Details:
+* Front End: Created a website with html and css formatting for a user to input their email and height and recieve results compared to the average height of all users data
+* Back end:
+* Created an email bot that automatically sends users their results of their input height compared to the average of all users
+* Stored data into PostgreSQL heroku database to perform analysis on all user input data
+* Created visualizations in tableau to showcase data trend
